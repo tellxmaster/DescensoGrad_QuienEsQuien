@@ -1,0 +1,27 @@
+Vello facial,Aros,Rubor,Barba,Pelo,Canas,Boca pequeña,Nariz grande,Etiqueta,Nombre
+0,0,1,0,1,0,1,0,Mujer,Ana
+1,0,0,1,1,0,0,1,Hombre,Alejandro
+0,1,1,0,1,0,0,0,Mujer,Clara
+1,1,0,1,0,1,1,1,Hombre,Bernardo
+0,0,0,0,1,0,0,1,Mujer,Anita
+1,1,1,1,1,1,0,0,Hombre,Roberto
+0,1,0,0,1,1,1,0,Mujer,Maria
+1,0,1,1,1,0,1,1,Hombre,Henry
+0,0,0,0,0,1,1,0,Mujer,Susana
+1,1,1,1,0,1,0,1,Hombre,John
+0,1,0,0,1,0,1,1,Mujer,Martha
+1,0,1,1,0,1,0,0,Hombre,Tomas
+0,0,0,0,1,1,0,1,Mujer,Mary
+1,1,1,1,0,0,1,0,Hombre,Larry
+0,1,0,0,0,0,1,1,Mujer,Olivia
+1,0,1,1,0,1,1,1,Hombre,Peter
+0,0,0,0,0,0,0,0,Mujer,Karen
+1,1,1,1,1,1,1,1,Hombre,Ricardo
+0,1,0,0,0,1,1,0,Mujer,Sofia
+1,0,1,1,1,0,0,0,Hombre,Abraham
+0,0,0,0,0,0,1,1,Mujer,Ursula
+1,1,1,1,0,0,0,0,Hombre,Victor
+0,1,0,0,0,1,0,1,Mujer,Tamara
+1,0,1,1,1,1,1,0,Hombre,Xavier
+0,0,0,0,0,0,0,1,Mujer,Yvette
+1,1,1,1,1,0,0,1,Hombre,Paco
